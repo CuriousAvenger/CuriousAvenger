@@ -1,4 +1,4 @@
 - 👋 Hi, I’m CuriousAvenger
 - 👀 I’m interested in Computer Science and Astrophysics
 - 🌱 I’m currently learning Neural Networks
-- ✨ Working on a Stock Predictor Website
+- ✨ Working on a Stock Predictor Website!
