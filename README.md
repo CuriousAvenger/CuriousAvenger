@@ -4,5 +4,4 @@
 - ✨ Working on a Stock Predictor Website!
 
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=CuriousAvenger&count_private=true&theme=tokyonight&showicons=true)]()
-<!-- [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=CuriousAvenger&langs_count=5&theme=tokyonight)]() -->
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=curiousavenger&include_all_commits=true&hide_border=true&layout=compact&theme=dark&bg_color=0D1117)
