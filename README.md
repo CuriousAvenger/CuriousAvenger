@@ -3,7 +3,6 @@
 - 👀 I’m interested in Computer Science and Astrophysics.
 - 🌱 I’m currently learning reinforcement learning in ML.
 - ✨ Working on a Stock Predictor Website!
-- ![My Stats](https://komarev.com/ghpvc/?username=curiousavenger)
 
 ## 📘 Latest Blog Articles
 
