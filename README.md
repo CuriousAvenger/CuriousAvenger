@@ -1,4 +1,4 @@
-### Hi There, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Sai Praneth (CuriousAvenger0)
+### Hi There, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Sai Praneth (CuriousAvenger)
 
 - 👀 I’m interested in Computer Science and Astrophysics.
 - 🌱 I’m currently learning reinforcement learning in ML.
@@ -13,8 +13,3 @@
 
 
 ▶ [...more blog articles](https://curiousavenger.net/blog-home.html)
-
-
-## &#x1f4c8; My GitHub Stats
-
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=curiousavenger&include_all_commits=true&hide_border=true&layout=compact&theme=dark&bg_color=0D1117)
