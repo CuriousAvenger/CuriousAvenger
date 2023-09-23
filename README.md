@@ -6,10 +6,10 @@
 
 ## 📘 Latest Blog Articles
 
-- [Quantum Tennis](https://curiousavenger.net/blog-QT.html)
-- [Teleporation](https://curiousavenger.net/blog-TP.html)
-- [Quantum Field Theory](https://curiousavenger.net/blog-QFT.html)
-- [Higgs Boson](https://curiousavenger.net/blog-HB.html)
+- [Quantum Tennis](https://curiousavenger.net/blogs/blog-QT.html)
+- [Teleporation](https://curiousavenger.net/blogs/blog-TP.html)
+- [Quantum Field Theory](https://curiousavenger.net/blogs/blog-QFT.html)
+- [Higgs Boson](https://curiousavenger.net/blogs/blog-HB.html)
 
 
-▶ [...more blog articles](https://curiousavenger.net/blog-home.html)
+▶ [...more blog articles](https://curiousavenger.net/blogs.html)
