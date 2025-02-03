@@ -1,7 +1,7 @@
 ### Hi There, <img src="https://raw.githubusercontent.com/CuriousAvenger/CuriousAvenger/main/wave.gif" width="30px"> Im Sai Praneth (CuriousAvenger)
 
 - 👀 I'm interested in Computer Science and Astrophysics
-- 🌱 Im currently learning reinforcement learning in python.
+- 🌱 I'm currently learning reinforcement learning in python.
 - ✨ Working on a Stock Predictor Website!
 
 ## 📘 Latest Blog Articles
